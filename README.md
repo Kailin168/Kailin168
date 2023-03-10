@@ -70,6 +70,6 @@ Contact me: kailin8591@gmail.com
 [<img style="display: block; margin: 0 auto;" alt="PortfolioTracker" width="400px" src="https://user-images.githubusercontent.com/104730743/199075182-af3b80b1-470b-4735-8855-91d4d0892dee.png" />](https://www.youtube.com/watch?v=juVxJYn8nlE&ab_channel=WillieShi)
 
 **Canvas**
-[Github BE Link](https://github.com/Kailin168/CanvasProjectBE) | [Github FE Link](https://github.com/Kailin168/CanvasProjectFE) |
+[Github BE Link](https://github.com/Kailin168/CanvasProjectBE) | [Github FE Link](https://github.com/Kailin168/CanvasProjectFE) 
 <br/>
 <img style="display: block; margin: 0 auto;" alt="canvas" width="400px" src="https://user-images.githubusercontent.com/103536761/224437829-c0db1c0e-d99c-42b3-b798-6d02a0840c56.png" />
