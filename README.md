@@ -57,7 +57,11 @@ Contact me: kailin8591@gmail.com
 **weConnect**
 [Github Link](https://github.com/Kailin168/socialMedia) | [Deployed Link](http://ec2-54-210-65-11.compute-1.amazonaws.com/)
 <br/>
-[<img style="display: block; margin: 0 auto;" alt="socialmedia" width="400px" src="https://user-images.githubusercontent.com/103536761/224435497-ce542d07-42b7-467b-a5d3-0649bbec05a2.png" />](http://54.152.24.233:4000/home)
+***Demo username: testing***
+<br/>
+***Demo password: testing123***
+<br/>
+<img style="display: block; margin: 0 auto;" alt="socialmedia" width="400px" src="https://user-images.githubusercontent.com/103536761/224435497-ce542d07-42b7-467b-a5d3-0649bbec05a2.png" />
 
 **Vegan Market**
 [Github Link](https://github.com/Kailin168/e-commerce)
