@@ -1,6 +1,6 @@
 ## Hello, I'm Kai 👋
 
-<img width="310px" height="280px" src="https://media.tenor.com/zY5olcaT1T0AAAAi/diegodrawsart-women-and-girls-in-science.gif" />
+<img width="320px" height="280px" src="https://media.tenor.com/zY5olcaT1T0AAAAi/diegodrawsart-women-and-girls-in-science.gif" />
 
 ######
 I am a full stack software engineer based in NYC.
