@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 💬 Ask me about **Front-end web development and system design.**
+- 💬 Ask me about **Web development and system design.**
 
 - 📫 How to reach me **Kailin8591@gmail.com**
 
