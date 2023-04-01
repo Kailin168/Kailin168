@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 💬 Ask me about **Web development and system design.**
+- 💬 Ask me about **Web development and System design.**
 
 - 📫 How to reach me **Kailin8591@gmail.com**
 
-- ⚡ Fun fact **I can put on smile on your face.**
+- ⚡ Fun fact **I can put on smile on your face.** 😆
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
