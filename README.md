@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailin168&label=Profile%20views&color=0e75b6&style=flat" alt="kailin168" /> </p>
 
-- 🔭 I’m currently working on **React project and solving data structure and algorithms questions.**
+- 🔭 I’m currently working on **React.js project and solving data structure and algorithms questions.**
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Python, Cloud and AWS.**
 
 - 💬 Ask me about **Web development and System design.**
 
