@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React.js project and solving data structure and algorithms questions.**
 
-- 🌱 I’m currently learning **Python, Cloud Computering and AWS.**
+- 🌱 I’m currently learning **Python and Data Science.**
 
 - 💬 Ask me about **Web development and System design.**
 
