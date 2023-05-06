@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python and System design.**
 
-- 💬 Ask me about **Web development and System design.**
+- 💬 Ask me about **Web development.**
 
 - 📫 How to reach me **Kailin8591@gmail.com**
 
