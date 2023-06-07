@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailin168&label=Profile%20views&color=0e75b6&style=flat" alt="kailin168" /> </p>
 
-- 🔭 I’m currently working on **React.js project and data structure and algorithms questions.**
+- 🔭 I’m currently working on **React.js project and indepth system design concepts.**
 
 - 🌱 I’m currently learning **Python and System design.**
 
