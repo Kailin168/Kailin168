@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">I am a full stack software engineer based in New York City.</h3>
-<h3 align="center">Fueled by passion and driven to take on challenges and risks with confidence.</h3>
-
 
 <!-- <img width="320px" height="280px" src="https://media.tenor.com/zY5olcaT1T0AAAAi/diegodrawsart-women-and-girls-in-science.gif" /> -->
 
